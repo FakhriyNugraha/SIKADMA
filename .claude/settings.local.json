@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir /B)",
+      "Bash(flutter --version)",
+      "Bash(flutter create *)",
+      "Bash(flutter pub *)",
+      "Bash(flutter analyze *)",
+      "Bash(flutter build *)",
+      "Bash(ls \"C:\\\\Users\\\\LENOVO\\\\.claude\\\\projects\\\\d--Tugas-Kuliah-Semester-6-Proyek-Mobile-App-Tubes-MobileApp\\\\memory\" 2>&1)",
+      "Read(//c/Users/LENOVO/.claude/projects/d--Tugas-Kuliah-Semester-6-Proyek-Mobile-App-Tubes-MobileApp/**)"
+    ]
+  }
+}
