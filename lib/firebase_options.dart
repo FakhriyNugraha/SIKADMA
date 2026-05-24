@@ -35,13 +35,15 @@ class DefaultFirebaseOptions {
     }
   }
 
-  // Nilai placeholder — diganti otomatis oleh `flutterfire configure`.
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'PLACEHOLDER_API_KEY',
-    appId: 'PLACEHOLDER_APP_ID',
-    messagingSenderId: 'PLACEHOLDER_SENDER_ID',
-    projectId: 'PLACEHOLDER_PROJECT_ID',
-    authDomain: 'PLACEHOLDER_PROJECT_ID.firebaseapp.com',
-    storageBucket: 'PLACEHOLDER_PROJECT_ID.appspot.com',
+    apiKey: 'AIzaSyCcm0aa2qBSdMOnoEzFIO5lI7wxxXgH61M',
+    appId: '1:113795128963:web:5641a01d71c36977c345b6',
+    messagingSenderId: '113795128963',
+    projectId: 'sikadma',
+    authDomain: 'sikadma.firebaseapp.com',
+    storageBucket: 'sikadma.firebasestorage.app',
+    measurementId: 'G-3DSGV8BCQY',
   );
+
+  // Nilai placeholder — diganti otomatis oleh `flutterfire configure`.
 }
